@@ -1,0 +1,39 @@
+body{
+    background-color: rgba(0, 0, 0, 0.46);
+}
+
+h2{
+    margin-top: 100px;
+    text-align: center;
+    font-family: cursive;
+    font-size: 40px;
+    text-shadow: 3px 3px 10px whitesmoke;
+}
+div{
+    text-align: center;
+}
+label{
+    font-size: 25px;
+}
+.input{
+    height: 30px;
+    width: 300px;
+    margin: 5px;
+    border-radius: 5px;
+    /* border: 1px; */
+    border: 1px solid;
+}
+#submit{
+    height: 35px;
+    width: 120px;
+    margin-left: 100px;
+    border-radius: 5px;
+    background-color: rgba(5, 202, 5, 0.819);
+}
+.input:hover{
+    background-color: rgba(245, 245, 245, 0.871);
+}
+#submit:hover{
+    background-color: rgba(6, 245, 6, 0.656);
+    cursor: pointer;
+}

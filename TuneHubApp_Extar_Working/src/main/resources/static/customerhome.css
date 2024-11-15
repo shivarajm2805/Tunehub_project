@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-image: url(customerimage.jpg); 
+    background-size: cover;
+  
+    background-position: center;
+
+    height: 70vh; /* Ensure the body takes up the full viewport height */
+}
+h1{
+    color:aqua;
+    text-shadow: 0.7px 0.7px 10px rgb(245, 245, 245);
+    font-size: 50px;
+    margin-top: 100px;
+}
+div{
+    /* margin-top: 400px; */
+    height: 50px;
+    width: 200px;
+    margin-left: 570px;
+    background-color: rgb(41, 159, 172);
+    align-content: center;
+    border-radius: 7px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+
